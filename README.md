@@ -11,7 +11,7 @@
 Simple and cost effective approach to determine the applied force on the knee joint is measuring the bending angle of the knee joint.
 Flex sensors are known with their which is making them most suitable sensor type for this specific measurement.
 
-Combining flex sensors with a microcontroller to read and analyze the signal data then integrating these components on a 3D printed wearable knee pad makes it possible to do the desired measurements
+Combining flex sensors with a microcontroller to read and analyze the signal data then integrating these components on a 3D printed wearable knee pad makes it possible to do the desired measurements.
 Total cost to develop this system is 140 USD on average which is the most affordable solution compared with other options.
 
 
